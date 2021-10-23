@@ -2,7 +2,7 @@
 
 - [x]  Todos los miembros tengan Git en su ultima versión.
 
-![git_version.png](git_version.png)
+![git_version.PNG](git_version.PNG)
 
 - [x]  Creación de un directorio sincronizado con el repositorio.
 
