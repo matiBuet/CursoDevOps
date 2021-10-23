@@ -6,7 +6,7 @@
 
 - [x]  Creación de un directorio sincronizado con el repositorio.
 
-![Github_Push.PNG](Github_Push.PNG)
+![GitHub_Push.PNG](GitHub_Push.PNG)
 
 - [x]  Sincronizar Visual Studio Code con el repositorio.
 
@@ -24,7 +24,7 @@
 
 - [x]  Todos los miembros tengan NodeJS en su ultima versión, sincronizado con Visual Studio.
 
-![Node_Version.PNG](NNode_Version.PNG)
+![Node_Version.PNG](Node_Version.PNG)
 
 - [x]  Todos los miembros tengan el modulo ReactJS y Express.
 
